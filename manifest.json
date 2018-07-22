@@ -1,0 +1,19 @@
+{
+	
+	"manifest_version": 2,
+	"name": "General Pomodore Timer",
+	"version":"1.0",
+
+	"description": "In construction",
+
+	//"icons": {
+	//	"48": "icons/border-48.png"
+	//},
+	
+	"content_scripts": [
+		{
+			"js": ["genpomo.js"]
+		}
+	]
+
+}
